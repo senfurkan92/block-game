@@ -17,7 +17,7 @@ export default {
           new BlockModel(true, true, 4),
           new BlockModel(true, true, 5),
           new BlockModel(true, true, 4),
-          new BlockModel(true, true, 4),
+          new BlockModel(true, true, 0),
           new BlockModel(true, true, 5),
           new BlockModel(true, true, 4),
           new BlockModel(true, true, 4),
